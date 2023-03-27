@@ -1,8 +1,8 @@
 /* Your CSS Code here. */
-.a{
+.container{
+	background-color: lightblue;
 	width: 300px;
 	padding: 50px;
-	background: lightblue;
 	border: 15px solid blue;
 	margin: 20px;
 }
